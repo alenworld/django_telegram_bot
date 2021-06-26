@@ -1,0 +1,3 @@
+django
+python-telegram-bot
+django-filter
